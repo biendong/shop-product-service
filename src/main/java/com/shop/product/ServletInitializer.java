@@ -1,4 +1,4 @@
-package com.digital.product;
+package com.shop.product;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
